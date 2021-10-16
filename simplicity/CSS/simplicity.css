@@ -26,7 +26,7 @@ p {
 /* Buttons <button> */
 /* Configuration for buttons are not in the config file yet! */
 button {
-    color: var(--simplicity-dark-fontcolor);
+    color: var(--simplicity-darkbutton-fontcolor);
     font-family: var(--simplicity-global-font-family);
     font-size: 15pt;
     background-color: white;
@@ -38,7 +38,7 @@ button {
 
 /* If you use the light mode, use this div class with your button <button class="lightbutton"> */
 .lightbutton {
-    color: var(--simplicity-light-fontcolor);
+    color: var(--simplicity-lightbutton-fontcolor);
     font-family: var(--simplicity-global-font-family);
     font-size: 15pt;
     background-color: black;
@@ -48,4 +48,12 @@ button {
     display: inline-block;
 }
 
+a {
+    color: #FFFFFF;
+    font-family: var(--simplicity-global-font-family);
+    font-size: 12pt;
+    background-color: black;
+    text-decoration: none;
+    display: inline-block;
+}
 
