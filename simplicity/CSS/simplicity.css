@@ -34,6 +34,7 @@ button {
     text-align: center;
     text-decoration: none;
     display: inline-block;
+    border-radius: --simplicity-btn-border-radius;
 }
 
 /* If you use the light mode, use this div class with your button <button class="lightbutton"> */
