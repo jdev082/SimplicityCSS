@@ -12,4 +12,9 @@
   --simplicity-heading-text-size: 30pt;
   --simplicity-global-font-family: 'Roboto', sans-serif;
   --simplicity-global-fontsize: 15pt;
+  --simplicity-btn-border-radius: 2.5pt;
+  --simplicity-btn-bg: white;
+  /* Custom Variables Here */
 }
+
+/* Custom CSS Here */
