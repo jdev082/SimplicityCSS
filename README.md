@@ -9,3 +9,5 @@ No need to know any CSS! Just edit the config file (its a css file but its just 
 
 # Latest Build (21.10.16-dev) (Build 21101644)
 Thanks MystPi for PR #2 (Fixed CSS Variables) SimplicityCSS can now be used for websites!
+# Discontinued software
+Thankyou contributors of the project, for helping SimplicityCSS fly through difficulties. But this software is now discontinued!
